@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>img_29_jpg.rf.14d21a37faf0d7099adda7c537bb7efb.jpg</filename>
+	<path>img_29_jpg.rf.14d21a37faf0d7099adda7c537bb7efb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sterile Fluid Path</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>588</xmax>
+			<ymin>144</ymin>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

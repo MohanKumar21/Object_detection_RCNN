@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>img_27_jpg.rf.0236510d1da6b469e7686fd8d634bbfa.jpg</filename>
+	<path>img_27_jpg.rf.0236510d1da6b469e7686fd8d634bbfa.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Non sterile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>564</xmax>
+			<ymin>81</ymin>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

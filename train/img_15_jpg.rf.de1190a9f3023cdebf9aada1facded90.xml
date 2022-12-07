@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>img_15_jpg.rf.de1190a9f3023cdebf9aada1facded90.jpg</filename>
+	<path>img_15_jpg.rf.de1190a9f3023cdebf9aada1facded90.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Atmospheric pressure limitation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>633</xmax>
+			<ymin>3</ymin>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

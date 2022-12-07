@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>img_28_jpg.rf.610a8fa023e3d786322e02f706ab0caf.jpg</filename>
+	<path>img_28_jpg.rf.610a8fa023e3d786322e02f706ab0caf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Do not use if package is damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>86</xmin>
+			<xmax>551</xmax>
+			<ymin>60</ymin>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>
